@@ -1,7 +1,8 @@
-# 1-repositório
+#primeiro-repositório
 
-Para copiar arquivo html
+...
+Para copiar arquivo html:
 ...
 <html>
- <h1>meu primeiro arquivo em HTML</h1>
-</html.
+ <h1>Meu primeiro arquivo HTML</h1>
+</html>
